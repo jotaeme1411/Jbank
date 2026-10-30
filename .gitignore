@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Banco de dados
+*.db
+*.sqlite3
+
+# Configurações locais
+.env
+.DS_Store
